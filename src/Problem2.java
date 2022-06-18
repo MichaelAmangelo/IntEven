@@ -10,18 +10,15 @@ public class Problem2 {
 
         int n = scan.nextInt();
 
-        int count = 1;
-
         int sum = 0;
 
-        while (count <= n)
+        for (int count = 1; count <= n; count++)
         {
             if (count % 2 == 0)
             {
                 sum += count;
 
             }
-            count++;
         }
         System.out.println("The sum of all even numbers between 1 and " + n + " is: " + sum);
 
