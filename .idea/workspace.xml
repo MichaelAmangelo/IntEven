@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddb42630-73ce-4e5d-acb5-6a5628187ee7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem1.iml" afterDir="false" />
+    <list default="true" id="ddb42630-73ce-4e5d-acb5-6a5628187ee7" name="Changes" comment="&quot;First commit&quot;">
       <change afterPath="$PROJECT_DIR$/src/Problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/problem4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.problem1">
+  <component name="RunManager" selected="Application.Problem2">
     <configuration name="Problem2" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem2" />
       <module name="Problem1" />
@@ -83,6 +76,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655488833425</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;First commit&quot;">
+      <created>1655507224853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655507224853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;First commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;First commit&quot;" />
   </component>
 </project>
